@@ -1,4 +1,4 @@
-# Share
+# Applying Sharing feature in your app
 How to share text and images through app
 
 1. Add setHasOptionsMenu(true) to onCreateView() in our fragment from where you want to share text or images.
